@@ -1,0 +1,16 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Logs
+logs/
+
+# Frontend build artifacts
+frontend/build/
+frontend/node_modules/
+
+# Miscellaneous
+.DS_Store
